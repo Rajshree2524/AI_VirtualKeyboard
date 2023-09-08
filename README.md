@@ -14,7 +14,6 @@ Text Display: Displays the typed text in real-time on the screen.
 Customization: Easy customization of the virtual keyboard layout and appearance.
 
 Requirements
-
 Python 3.x
 OpenCV
 cvzone library
