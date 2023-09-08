@@ -1,3 +1,6 @@
+
+![image](https://github.com/Rajshree2524/AI_VirtualKeyboard/assets/137636886/9f2d366d-97ea-4ed8-8260-7f1ccd096dd1)
+
 Gesture-Controlled Virtual Keyboard
 
 This Python project demonstrates the creation of a virtual keyboard that can be controlled using hand gestures. The virtual keyboard can be a handy tool for hands-free typing in various applications. It's built using Python, OpenCV for hand tracking, and can be extended for different use cases.
